@@ -1,0 +1,13 @@
+
+## CONFIG
+# Input file
+Log=/var/log/httpd/access_log
+
+# Output log directory
+LogDir=~/log/http404Report
+
+# Space separated list of email addresses to mail the reports to.
+Email="user@example.com"
+## END CONFIG
+
+# vim: autoindent:expandtab:tabstop=4
