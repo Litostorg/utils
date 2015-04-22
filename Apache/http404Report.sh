@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #
 #   Author :        ADW 04/15
 #
